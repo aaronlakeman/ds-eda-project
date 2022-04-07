@@ -134,6 +134,7 @@ data/*.tsv
 data/*.zip
 data/*.gsv
 data/*.json
+data/*.kml
 
 # models
 models/*.pickle
@@ -144,3 +145,7 @@ models/*.pkl
 
 # vscode Stuff
 .vscode
+
+# JSON
+*.json
+*.geojson
